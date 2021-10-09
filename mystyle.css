@@ -1,5 +1,9 @@
 /* Writing this as the first comment of my css */
 
+body {
+  background-color: lightblue;
+}
+
 h1 {
   color: navy;
 }
