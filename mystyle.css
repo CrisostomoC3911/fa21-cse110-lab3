@@ -19,6 +19,9 @@ h2 {
 h3 {
   margin-right: 15px;
   margin-top: 0.5%;
+  text-decoration: underline;
+  color: navy;
+  text-align: left;
 }
 
 details {
