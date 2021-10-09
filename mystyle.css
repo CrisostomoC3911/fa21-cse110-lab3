@@ -65,16 +65,8 @@ summary {
   display: flex;
   flex-direction: column;
 }
-.brainstorm .pomodoro {
-  display: flex;
-  flex-direction: column;
-}
-
-.brainstorm .gtd {
-  display: flex;
-  flex-direction: column;
-}
-
+.brainstorm .pomodoro,
+.brainstorm .gtd,
 .brainstorm .ium {
   display: flex;
   flex-direction: column;
@@ -103,4 +95,8 @@ textarea:active {
 
 #forms {
   font-size: 20px;
+}
+
+a[href*="#"] {
+  font-style: italic;
 }
