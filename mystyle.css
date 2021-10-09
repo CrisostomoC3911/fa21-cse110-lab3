@@ -100,3 +100,23 @@ textarea:active {
 a[href*="#"] {
   font-style: italic;
 }
+
+details summary {
+  color: darkblue;
+}
+
+li > ol {
+  font-size: 14px;
+}
+
+textarea ~ label {
+  font-style: italic;
+}
+
+input ~ label {
+  font-size: 15px;
+}
+
+body.Glossary.h3 {
+  font-size: 20px;
+}
