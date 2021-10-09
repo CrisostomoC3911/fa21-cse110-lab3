@@ -11,6 +11,7 @@ h1 {
   margin-bottom: 0.5%;
   margin-right: 5px;
   display: block;
+  position: static;
 }
 
 h2 {
@@ -24,6 +25,7 @@ h3 {
   color: navy;
   text-align: left;
   display: inline;
+  position: relative;
 }
 
 details {
@@ -40,6 +42,7 @@ details {
 
 summary {
   padding: 1% 1% 1% 1%;
+  position: ;
 }
 
 .Glossary nav {
