@@ -42,7 +42,6 @@ details {
 
 summary {
   padding: 1% 1% 1% 1%;
-  position: ;
 }
 
 .Glossary nav {
@@ -52,10 +51,42 @@ summary {
   min-width: auto;
 }
 
+.brainstorm {
+  display: flex;
+  flex-direction: column;
+}
+.brainstorm .pomodoro {
+  display: flex;
+  flex-direction: column;
+}
+
+.brainstorm .gtd {
+  display: flex;
+  flex-direction: column;
+}
+
+.brainstorm .ium {
+  display: flex;
+  flex-direction: column;
+}
+
 button:hover {
   color: blue;
 }
 
 textarea:active {
   color: orange;
+}
+
+.gridexample {
+  display: grid;
+}
+.gridexample .pareto {
+  display: grid;
+}
+.gridexample .rpm {
+  display: grid;
+}
+.gridexample .hours {
+  display: grid;
 }
