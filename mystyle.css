@@ -51,3 +51,11 @@ summary {
   max-width: auto;
   min-width: auto;
 }
+
+button:hover {
+  color: blue;
+}
+
+textarea:active {
+  color: orange;
+}
